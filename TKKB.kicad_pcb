@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(net 0 "")
@@ -18445,6 +18445,58 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "eebd4266-949f-4cd4-91e9-6cb8196ec546")
+	)
+	(gr_text "TK2KB"
+		(at 39.878 129.54 0)
+		(layer "F.Cu")
+		(uuid "19436005-f3af-4293-b3da-c00c1d856eae")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "Rev. 0"
+		(at 59.69 130.81 0)
+		(layer "F.Cu")
+		(uuid "bef714a0-8b4b-4f5c-8880-89d9d91c054b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "Rev. 0"
+		(at 59.69 130.81 0)
+		(layer "F.Mask")
+		(uuid "59abc049-aae3-4254-ad36-306a2ddeada2")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "TK2KB"
+		(at 39.878 129.54 0)
+		(layer "F.Mask")
+		(uuid "72cbd492-4709-428c-98f0-80574a7c5eea")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+			)
+			(justify left)
+		)
 	)
 	(gr_text "⬆️"
 		(at 243.84 107.188 0)
