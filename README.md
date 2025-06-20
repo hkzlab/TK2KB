@@ -27,3 +27,7 @@ The board was designed with [KiCad](https://kicad.org/) EDA.
 | J3                     |  1  | 1x02 2.54mm, right angle pinheader                      | Optional                                                             |
 | SW1-SW57               |  57 | SMD push buttons                                        | KSC241G or compatible                                                |
 
+### Ordering the boards
+
+You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/TK2KB_TK2000_Keyboard_0d20454f.html) and support me or download 
+the gerbers and have them printed wherever you like!!!
