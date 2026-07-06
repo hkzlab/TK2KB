@@ -31,3 +31,20 @@ The board was designed with [KiCad](https://kicad.org/) EDA.
 
 You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/TK2KB_TK2000_Keyboard_0d20454f.html) and support me or download 
 the gerbers and have them printed wherever you like!!!
+
+### 💰 Selling these boards 💰
+
+I you want to contact me about selling this project, you can reach me via email at `0hkzUNDERSCOREprojects6ATposteoDOTnet` after properly fixing the email address by removing the digits and replacing the uppercase words with the proper characters.
+
+**Contacts via other channels will be ignored**, as it means you did not read this document thoroughly.
+
+"Collaborations" will boil down to the following:
+
+- If you wish to produce and share this project at a loss or at cost, go for it. I am only asking for attribution and to let me know via email.
+- If you want to do it for profit, let's discuss it. I'll probably settle for a rough 5% of the profit. Importing components is getting more expensive by the day, so this will contribute to me making future projects available for free.
+- I will NOT do customer assistance for you or your customers. This is a hobby, not my job.
+
+If this is not ok for you, you're cordially invited to go bother someone else :)
+
+Authorized sellers will be listed in this README. If you find someone selling my boards without being listed here, it means they're stealing other people's work.
+
